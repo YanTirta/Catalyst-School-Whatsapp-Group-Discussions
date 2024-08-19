@@ -1,24 +1,40 @@
 11/1/23, 10:44 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+
 10/24/23, 14:05 - Adhikayev created group "Cardano Blockchain Gimbalabs-Catalyst School"
+
 11/1/23, 10:44 - Adhikayev added you
+
 11/1/23, 10:44 - Adhikayev: Welcome Pak Yan @6285804602617
+
 11/1/23, 10:45 - Adhikayev: Mas @6282264579005 , untuk flyer apakah sudah diisi lokasi dan jam?
+
 11/1/23, 11:00 - Lintang Asmoro: Sudah Pak Adhika 🙏
+
 11/1/23, 11:03 - Adhikayev: https://docs.google.com/presentation/d/1KhIMp9KlNEoAledvqQG52ZdFHsxvcYEj/edit#slide=id.p1
 
 @6285804602617 , all good.
 Terima kasih Mas @6282264579005
+
 11/1/23, 11:11 - Lintang Asmoro: Sama sama Pak 🙏
+
 11/1/23, 11:13 - Yan Tirta: Siang Tim UGM. Berikut saya share rekapitulasi kinerja dan kompensasi Community Reviewer LVL 0/1/2.
 
 File sendiri adalah hasil dari tim internal dan usaha transparansi Project Catalyst;
+
 11/1/23, 11:14 - Yan Tirta: https://docs.google.com/spreadsheets/d/1rvgSfwFiQLZkQq2LhyXmGkSM-MeUlumG6Svce0GIbmU/edit#gid=900787275
+
 11/1/23, 11:15 - Yan Tirta: Kepada tim UGM silahkan agar dipelajari dan agar menjadi penyemangat untuk berkontribusi di decentealized governance Cardano
+
 11/1/23, 11:16 - Yan Tirta: Ada outstanding achievement yang diraih dari peserta L0 yg berhasil mendapatkan 2000ADA dan peserta L1 yang berhasil mendapatkan 7000ADA
+
 11/1/23, 11:25 - Lintang Asmoro: Terima kasih banyak Pak Yan 🙏
+
 11/1/23, 11:27 - Deren T: Baik, Terimakasih Pak Yan 🙏
+
 11/1/23, 11:31 - +62 814-1357-4298: Baik, Pak Yan, Terima kasih banyak untuk dokumennya
+
 11/1/23, 11:31 - +62 814-1357-4298: Permisi, bapak. Saya mencoba untuk menyusun caption broadcast in case jika belum ada
+
 11/1/23, 11:31 - +62 814-1357-4298: Hello friends
 
 Are you looking for funding for your capstone project or community racing team?
@@ -32,7 +48,9 @@ Venue Room M1 Department of Mechanical and Industrial Engineering, UGM
 Registration fee: Free
 
 This workshop will be conducted in Indonesian language and there will be door prizes worth 600k rupiah in ADA currency for the best audience. Register now by scanning the QR Code on the flyer to get prizes worth 150k rupiah in ADA currency and unique phygital art for the first 100 registrants.
+
 11/1/23, 17:47 - +62 814-1357-4298: Selamat sore, bapak² sekalian. Berikut kami izin mengonfirmasi terkait poster dan bc yang bisa digunakan untuk publikasi
+
 11/1/23, 17:47 - +62 814-1357-4298: Hello friends
 
 Are you looking for funding for your capstone project or community racing team?
@@ -47,13 +65,16 @@ Registration fee: Free
 Registration link: bit.ly/WorkshopProjectCatalyst
 
 This workshop will be conducted in Indonesian language and there will be door prizes worth 600k rupiah in ADA currency for the best audience. Register now by scanning the QR Code on the flyer to get prizes worth 150k rupiah in ADA currency and unique phygital art for the lucky participant.
+
 11/1/23, 17:49 - +62 814-1357-4298: IMG-20231101-WA0002.jpg (file attached)
+
 11/1/23, 17:50 - +62 814-1357-4298: Kami juga menyertakan link form untuk mengumpulkan no WA dan pembuatan grup WA untuk koordinasi dengan peserta terkait kegiatan ke depan, pak🙏
 11/1/23, 18:04 - Yan Tirta: Terkait ini, saya ada sedikit tambahan informasi untuk menambah kejelasan di bagian "Rewards CardanoSpot.io". Disitu saya perjelas dengan informasi kapan event ini akan berakhir.
 
 Saya juga memperbesar dan memberi aksen bold untuk informasi;
 1) When
 2) Where <This message was edited>
+
 11/1/23, 18:07 - Yan Tirta: Berdasarkan diskusi di Estuary, saya ingat akan ada kesempatan bergabung via Zoom juga. Apakah jadi untuk di follow-up?
 
 Kalau jadi, siapakah yang akan menyediakan link Zoom-nya?
@@ -61,22 +82,36 @@ Kalau jadi, siapakah yang akan menyediakan link Zoom-nya?
 
 https://us02web.zoom.us/meeting/register/tZUtceGvqT8vHNRwx0SeP4Hb0xVMADWAIKud
 11/1/23, 20:51 - Deren T: Mohon maaf Pak, ijin mengoreksi poster untuk tanggalnya masih Oktober, Barusan sudah saya ganti 🙏
+
 11/1/23, 20:52 - Yan Tirta: Terimakasih Mas Deren
+
 11/1/23, 20:52 - Deren T: Sama-sama Pak 🙏
+
 11/1/23, 21:04 - +62 816-4265-148: Apakah sudah siap dishare?
+
 11/1/23, 21:05 - Adhikayev: Tadi siang QR codenya ada error.
 Pak @6285804602617, Mas @6282264579005 apakah QR codenya sudah bisa?
+
 11/1/23, 21:14 - Yan Tirta: QR bisa jalan. Hanya ada sedikit perbedaan persepsi tentang mekanisme distribusi rewards dari CardanoSpot.io.
 
 Rewards dari CardanoSpot.io akan didistribusi setelah 31 Desember 2023 kepada peserta yang sudah register via scan QR code secara acak.
+
 11/1/23, 21:15 - Yan Tirta: Sudah bisa Pak Nas.
+
 11/1/23, 21:21 - Yan Tirta: Berikut adalah versi *.jpeg-nya atas publikasi diatas;
+
 11/1/23, 21:22 - Yan Tirta: IMG-20231101-WA0004.jpg (file attached)
+
 11/1/23, 21:34 - Yan Tirta: Untuk Pak @628164265148 , Pak @6281239330962 , Mas @6282264579005 , Mas @6281413574298 dan Mas @6281905378266 ketahui, tanggal 2 hingga tanggal 4 akan ada Cardano Summit di Dubai. Bisa diikuti via website berikut; https://summit.cardano.org/
+
 11/1/23, 21:35 - +62 816-4265-148: Ini bisa saya publish di media sosial?
+
 11/1/23, 21:35 - +62 816-4265-148: Terima kasih infonya
+
 11/1/23, 21:35 - Yan Tirta: Monggo Pak Nas
+
 11/1/23, 21:36 - Deren T: Baik, Pak. Terimakasih infonya 🙏
+
 11/1/23, 21:40 - Yan Tirta: Untuk diketahui di Indonesia ada juga Cardano Summit Localized di Jakarta yang berlangsung tanggal 4 November. Kita dari komunitas Cardano Indonesia mengambil sikap hosting Cardano Summit Localized agar bergilir.
 
 *Apabila tim UGM mau dan siap untuk hosting untuk tahun depan, akan mulai kami koordinasikan. Semua pendanaan berasal dari Cardano Foundation.*
